@@ -1,4 +1,4 @@
-IP: 
+IP: 158.160.66.199;
 name_taski: https://taskitask.webhop.me/ ;
 name_kittygram: https://kittygramkitty.dynnamn.ru/ ;
 login: Admin;
