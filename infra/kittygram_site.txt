@@ -1,0 +1,5 @@
+IP: 
+name_taski: https://taskitask.webhop.me/ ;
+name_kittygram: https://kittygramkitty.dynnamn.ru/ ;
+login: Admin;
+password: Admin;
